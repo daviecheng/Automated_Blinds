@@ -12,7 +12,7 @@ NodeMCU ESP8266: https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Mi
 
 MG90S Micro Servo Motor: https://www.amazon.com/gp/product/B094J11DX6/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
-> The servo motor is motified for continous rotation and I cut off the plastic for the screws on both ends.
+> I modified the servo for continous rotation and I cut off the plastic for the screws on both ends.
 
 3.7 Lithium Ion Polymer Battery 900mAH: https://www.aliexpress.com/item/4000748499000.html?spm=a2g0s.9042311.0.0.195e4c4d181NYJ
 
