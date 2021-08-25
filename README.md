@@ -1,4 +1,4 @@
-# Automatic-Blind-Turner
+# Automatic_Blind_Turner
 
 ## Summary
 > esp8266 wakes up every hour from deep sleep and adjusts the blinds according to the weather.
