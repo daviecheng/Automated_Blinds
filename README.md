@@ -33,6 +33,7 @@ Configure the weather conditions and delays to fit your needs.
 
 > Note: A servo write delay for a blind position is sometimes inaccurate shifting slightly from the desired position.
 
+
 Watch Kevin Darrah's OpenWeather project video https://www.youtube.com/watch?v=cD4gDeQ5jBI for code explanations.
 
 ## 3D Printed Parts
