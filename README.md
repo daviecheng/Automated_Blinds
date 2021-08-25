@@ -5,7 +5,7 @@
 
 Inspired by Kevin Darrah's trigboard OpenWeather Project "Clear Skies" in this video here: https://www.youtube.com/watch?v=cD4gDeQ5jBI
 
-Project uses his code found here: http://kevindarrah.com/micro/Pusher/trigBoardOpenWeather.zip .Open the link in a new window and refresh to download.
+Project uses his code found here: http://kevindarrah.com/micro/Pusher/trigBoardOpenWeather.zip . Open the link in a new window and refresh to download.
 
 ## Parts Used
 NodeMCU ESP8266: https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B081CSJV2V/ref=sr_1_3?dchild=1&keywords=nodemcu+esp8266&qid=1629910947&sr=8-3
