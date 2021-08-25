@@ -6,6 +6,7 @@
 Inspired by Kevin Darrah's trigboard OpenWeather Project "Clear Skies" in this video here: https://www.youtube.com/watch?v=cD4gDeQ5jBI
 
 Project uses his code found here: http://kevindarrah.com/micro/Pusher/trigBoardOpenWeather.zip
+
 Open the link in a new window and refresh to download.
 
 ## Parts Used
