@@ -40,11 +40,11 @@ void adjustServo(){
   myservo.attach(SERVO_PIN);
   for(int i = prevMode; i<newMode; i++){
     myservo.write(180);
-    delay(300);
+    delayMicroseconds(100000);  // more precise than delay?
   }
   for(int i = newMode; i<prevMode; i++){
     myservo.write(0);
-    delay(300); 
+    delayMicroseconds(100000);
   }
   myservo.detach();
   
