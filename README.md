@@ -45,4 +45,4 @@ Download the STL files for the project and attach the servo motor as shown in th
 The STL files are designed to fit the blinds I have with a D-shaped rod. 
 
 ## Wiring Schematic
-<img src="https://user-images.githubusercontent.com/84931559/130838155-1e125730-844e-46c5-9714-86559cf0846a.JPG">
+<img src="https://user-images.githubusercontent.com/84931559/131257721-de98099c-e7d9-413c-b2f2-1179af0ac54d.JPG">
