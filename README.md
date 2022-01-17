@@ -1,4 +1,4 @@
-# Automatic_Blind_Turner
+# Automated Blinds
 
 ## Summary
 > esp8266 hourly adjusts the blinds according to the current weather then goes back to deep sleep.
