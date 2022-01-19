@@ -18,10 +18,10 @@ Project uses his code found here: http://kevindarrah.com/micro/Pusher/trigBoardO
 5. The weather should now be displayed on the serial monitor.
 6. Configure the weather conditions and delays to fit your needs.
 
-> Note: I adjusted my servo motor adjusted for 360 rotation. Servo delay is used for different blind positions. Therefore, it can be slightly inaccurate at times.
+> Note: I adjusted my servo motor adjusted for continuous rotation. Servo delay is used for different blind positions. Therefore, it can be slightly inaccurate at times.
 
 Watch Kevin Darrah's OpenWeather project video https://www.youtube.com/watch?v=cD4gDeQ5jBI for code explanations.
 
 
 ## Wiring Schematic
-<img src="https://user-images.githubusercontent.com/84931559/131257721-de98099c-e7d9-413c-b2f2-1179af0ac54d.JPG">
+<img src="https://user-images.githubusercontent.com/84931559/131257721-de98099c-e7d9-413c-b2f2-1179af0ac54d.JPG" width="500px">
